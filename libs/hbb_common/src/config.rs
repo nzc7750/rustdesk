@@ -106,7 +106,7 @@ const CHARS: &[char] = &[
     'm', 'n', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
 ];
 
-pub const RENDEZVOUS_SERVERS: &[&str] = &["www.gdmn.xyz"];
+pub const RENDEZVOUS_SERVERS: &[&str] = &["www.gdmn.top"];
 pub const RS_PUB_KEY: &str = "TbsSawE7+77JXx3wcYrRuGbwdGgdLXw1nyzR578SCkg=";
 
 pub const RENDEZVOUS_PORT: i32 = 21106;
